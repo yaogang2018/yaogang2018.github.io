@@ -1,10 +1,8 @@
 title: 姚刚
 author: GitHub User
-email: your-email@domain.com
+email: yaogang2017@qq.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+控制工程小硕一枚
 show_excerpts: true # set to true to show excerpts on the homepage
 remote_theme: thelehhman/texture
 theme: texture
@@ -21,13 +19,13 @@ texture:
   date_format: "%b %-d, %Y"
   style: blue
   showNav: false
-  showPicker: true
+  showPicker: false
 
   # generate social links in footer
   social_links:
-    zhihu: yao-yao-70-31
+    zhihu: https://www.zhihu.com/people/yao-yao-70-31/
     # twitter: thelehhman
-    github:  yaogang2018
+    github: https://github.com/yaogang2018
     # linkedIn: in/thelehhman
     # rss: rss
  
