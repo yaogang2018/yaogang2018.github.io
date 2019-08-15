@@ -38,9 +38,9 @@ texture:
 
   # generate social links in footer
   social_links:
-    zhihu: https://www.zhihu.com/people/yao-yao-70-31/
+    zhihu: yao-yao-70-31
     # twitter: thelehhman
-    github: https://github.com/yaogang2018
+    github: yaogang2018
     # linkedIn: in/thelehhman
     # rss: rss
  
