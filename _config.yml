@@ -1,4 +1,4 @@
-title: Texture Theme
+title: 姚刚
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -16,15 +16,16 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: 姚刚
+  tagline: 学生，爱好自动驾驶
   date_format: "%b %-d, %Y"
-  style: black
+  style: blue
   showNav: false
   showPicker: true
 
   # generate social links in footer
   social_links:
+    zhihu: yao-yao-70-31
     twitter: thelehhman
     github:  thelehhman
     linkedIn: in/thelehhman
