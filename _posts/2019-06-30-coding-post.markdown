@@ -1,32 +1,38 @@
 ---
 layout: post
-title:  "Coding Post"
-description: An example post which shows code rendering.
-date:   2019-05-23 21:03:36 +0530
-categories: Javascript NodeJS
+title:  "这里是代码"
+description: 测试代码页面
+date:   2019-08-16 00:22:00 +0800
+categories: MATLAB C++
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 
-```javascript
-const express = require('express')
-const app = express()
- 
-app.get('/', function (req, res) {
-  res.send('Hello World')
-})
- 
-app.listen(3000)
+```MATLAB
+fplot(@sin)
 ```
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam qui voluptatem excepturi nemo similique atque sapiente aperiam, dolorum deleniti! Esse quam perferendis temporibus nemo at molestias necessitatibus tenetur cupiditate sapiente. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil et voluptatibus non labore officiis assumenda, distinctio perspiciatis blanditiis nesciunt rerum molestias impedit fugiat nulla qui libero minima quasi! Libero, iure.
-
-```scss
-body {
-	font-family: 'Nunito Sans', sans-serif;
-	line-height: 1.5em;
-	margin: 0;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
+```C++
+#include <iostream>
+#include <tuple>
+int main( ){
+std::tuple t1 {167,"Testing", false,2.3}; 
+std::apply([](auto8&... args){((std::cout<< args<<'\n'),...);},t1);
 }
 ```
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam rerum, ratione impedit necessitatibus facere soluta odio repellat asperiores neque! Sunt iusto quia suscipit amet inventore eum, vel molestiae reiciendis alias.
+
+---
+如何让我遇见你
+在我最美丽的时刻
+为这我已在佛前求了五百年
+求他让我们结一段尘缘
+佛于是把我化成一棵树
+长在你必经的路旁
+阳光下慎重地开满了花
+朵朵都是我前世的盼望
+当你走近
+请你细听
+那颤抖的叶是我等待的热情
+而当你终于无视地走过
+在你身后落了一地的
+朋友啊
+那不是花瓣
+是我凋零的心
