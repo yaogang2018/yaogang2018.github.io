@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "姚刚个人介绍"
+description: 互联网中的姚刚
+date:   2019-08-16 00:22:00 +0800
+categories: MATLAB C++
+---
+
+```C++
+#include <iostream>
+#include <tuple>
+int main( ){
+std::tuple tmp {167,"Testing", false,2.3}; 
+std::apply([](auto8&... args){((std::cout<< args<<'\n'),...);},tmp);
+}
+```
+## **个人介绍**
+
+如何让我遇见你  
+在我最美丽的时刻  
+为这我已在佛前求了五百年  
+求他让我们结一段尘缘    
+佛于是把我化成一棵树  
+长在你必经的路旁  
+阳光下慎重地开满了花  
+朵朵都是我前世的盼望  
+当你走近  
+请你细听  
+那颤抖的叶是我等待的热情  
+而当你终于无视地走过  
+在你身后落了一地的  
+朋友啊  
+那不是花瓣  
+是我凋零的心 
+
+## **个人主页**
+[GitHub个人主页](https://github.com/yaogang2018)  
+
+[MATLAB中文论坛个人主页](https://www.ilovematlab.cn/reputation.php?uid=914376)  
+
+[知乎个人主页](https://www.zhihu.com/people/yao-yao-70-31/activities)  
+
+
+
+ 
