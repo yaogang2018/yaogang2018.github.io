@@ -13,12 +13,3 @@ categories: MATLAB C++
 
 [知乎个人主页](https://www.zhihu.com/people/yao-yao-70-31/activities)  
 
-
-```C++
-#include <iostream>
-#include <tuple>
-int main( ){
-std::tuple tmp {167,"Testing", false,2.3}; 
-std::apply([](auto8&... args){((std::cout<< args<<'\n'),...);},tmp);
-}
-```
